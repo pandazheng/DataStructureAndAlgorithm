@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:LinkList/LinkList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DynamicSequentialTable/DynamicSequentialTable.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StaticSequenceTable/StaticSequenceTable.xcodeproj">
+   </FileRef>
+</Workspace>
